@@ -1,0 +1,35 @@
+|    | username          |     likes |   followers |
+|---:|:------------------|----------:|------------:|
+|  0 | eitan             |  66200000 |     2300000 |
+|  1 | kareemrahma       |      8600 |         662 |
+|  2 | colton            |    460700 |       39800 |
+|  3 | taylorcassidyj    |  70200000 |     2200000 |
+|  4 | northstarboys     | 169800000 |     5500000 |
+|  5 | manager.ty        |  10300000 |      382100 |
+|  6 | cheesedaily       | 209800000 |     4099999 |
+|  7 | daisyfoko         |  32500000 |      654300 |
+|  8 | workanywhere      |   4800000 |      278000 |
+|  9 | imtiffanyyu       |   4200000 |      128400 |
+| 10 | alexashoen        |   3400000 |      228600 |
+| 11 | trashcaulin       |  50400000 |     2200000 |
+| 12 | kahlilgreene      |  10400000 |      625300 |
+| 13 | ecommjess         |  11300000 |      737000 |
+| 14 | kahlilgreene      |  10400000 |      625100 |
+| 15 | eco_tok           |        26 |           1 |
+| 16 | imtiffanyyu       |   4200000 |      128300 |
+| 17 | ecofreako         |    286500 |       19200 |
+| 18 | newlifestyleabb   |  18900000 |      350400 |
+| 19 | amiemariah        |      7200 |         322 |
+| 20 | eco               |   8700000 |      173100 |
+| 21 | theconsciouslee   |  92000000 |     2400000 |
+| 22 | theshadyecologist |    256600 |        4600 |
+| 23 | eco_og            |    882900 |       33300 |
+| 24 | jasonrodelo       |  25900000 |      933600 |
+| 25 | anania00          | 207100000 |     2300000 |
+| 26 | daisyfoko         |  32500000 |      654000 |
+| 27 | elinayael_        | 139800000 |     1900000 |
+| 28 | typical_democrat  |    149000 |       10400 |
+| 29 | famousblonde      |  44700000 |      748800 |
+| 30 | laysieeeb         |  85600000 |     1500000 |
+| 31 | samvicchiollo     | 183100000 |     2200000 |
+| 32 | underthedesknews  | 165100000 |     3000000 |
